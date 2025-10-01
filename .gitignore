@@ -1,0 +1,8 @@
+# Build output
+dist/
+test/testBuild
+
+# Node modules folder
+node_modules/
+
+/coverage
